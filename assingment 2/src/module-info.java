@@ -1,0 +1,2 @@
+module assingment_2 {
+}
